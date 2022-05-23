@@ -17,7 +17,7 @@ def fuck():
 	print(fack)
 	print("\033[92;1m [1] FUCK K4US4R  \033[96;1m[BYPASS]		")
 	print("\033[93;1m [2] FUCK RIYAD-RR \033[96;1m[BYPASS]	")
-        print("\033[93;1m [3] FUCK RANJHA \033[96;1m[BYPASS]")
+        print("\033[93;1m [3] FUCK RANJHA\033[96;1m[BYPASS]")
 	print("")
 	xx= input(" [•] CHOICE : ")
 	if xx in ["1","01"]:
@@ -29,4 +29,5 @@ def fuck():
         if xx in ["3","03"]:
 		time.sleep(1.5)
                 os.system('python Fuck-RANJHA.py')
+
 fuck()
