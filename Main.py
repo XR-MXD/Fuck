@@ -25,6 +25,6 @@ def fuck():
 	if xx in ["2","02"]:
 		time.sleep(1.5)
 		os.system('python Fuck-RR.py')
-        if xx in ["2","02"] :
+        if xx in ["2","02"]:
 		time.sleep(1.5)
 fuck()
