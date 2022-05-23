@@ -28,5 +28,5 @@ def fuck():
 		os.system('python Fuck-RR.py')
         if xx in ["3","03"]:
 		time.sleep(1.5)
-                os.system('python ranjha_fuck.py')
+                os.system('python Fuck-ranjha_fuck.py')
 fuck()
