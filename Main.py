@@ -23,21 +23,35 @@ def fuck():
 	print("")
 	xx= input(" [•] CHOICE : ")
 	if xx in ["1","01"]:
+
 		time.sleep(1.5)
+
 	        os.system('python Fuck-K4US4R.py')
+
 	if xx in ["2","02"]:
+
 		time.sleep(1.5)
+
 	        os.system('python Fuck-RR.py')
+
 	if xx in ["3","03"]:
+
 		time.sleep(1.5)
 	        os.system('python Fuck-SHANTO.py')
 	if xx in ["4","04"]:
+
 		time.sleep(1.5)
+
 	        os.system('python Fuck-RANJHA.py')
+
 	if xx in ["5","05"]:
+
 		time.sleep(1.5)
+
 	        os.system('python Fuck-MAHIN.py')
+
 	if xx in ["6","06"]:
+
 		time.sleep(1.5)
 
 fuck()
