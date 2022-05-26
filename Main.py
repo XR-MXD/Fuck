@@ -18,7 +18,7 @@ def fuck():
 	print(" \033[1;97m_________________________________________")
 	print("\033[1;91m [1] FUCK K4US4R  \033[96;5m[BYPASS]		")
 	print("\033[1;92m [2] FUCK RIYAD-RR \033[96;5m[BYPASS]	")
-	print(" \033[1;93m[3] FUCK SHANTO \033[96;5m[BYPASS]	")
+	print("\033[1;93m [3] FUCK SHANTO \033[96;5m[BYPASS]	")
 	print("\033[1;94m [4] FUCK RANJHA \033[96;5m[BYPASS]	")
 	print("\033[1;96m [5] FUCK MAHIN \033[96;5m[BYPASS]	")
 	print("")
@@ -31,13 +31,13 @@ def fuck():
 		os.system('python Fuck-RR.py')
 	if xx in ["3","03"]:
 		time.sleep(1.5)
-	os.system('python Fuck-SHANTO.py')
+	        os.system('python Fuck-SHANTO.py')
 	if xx in ["4","04"]:
 		time.sleep(1.5)
-	os.system('python Fuck-RANJHA.py')
+	        os.system('python Fuck-RANJHA.py')
 	if xx in ["5","05"]:
 		time.sleep(1.5)
-	os.system('python Fuck-MAHIN.py')
+	        os.system('python Fuck-MAHIN.py')
 	
 
 fuck()
