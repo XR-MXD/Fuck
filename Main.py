@@ -3,7 +3,6 @@ import os,time
 def fuck():
 	os.system('clear')
 	fack = ("""
-	
 \033[1;97m ███    ███ ██████     ███    ███      ██ 
 \033[1;97m ████  ████ ██   ██    ████  ████      ██ 
 \033[1;97m ██ ████ ██ ██████     ██ ████ ██      ██ 
@@ -25,19 +24,19 @@ def fuck():
 	xx= input(" [•] CHOICE : ")
 	if xx in ["1","01"]:
 		time.sleep(1.5)
-		os.system('python Fuck-K4US4R.py')
+	os.system('python Fuck-K4US4R.py')
 	if xx in ["2","02"]:
 		time.sleep(1.5)
-		os.system('python Fuck-RR.py')
+	os.system('python Fuck-RR.py')
 	if xx in ["3","03"]:
 		time.sleep(1.5)
-	        os.system('python Fuck-SHANTO.py')
+	os.system('python Fuck-SHANTO.py')
 	if xx in ["4","04"]:
 		time.sleep(1.5)
-	        os.system('python Fuck-RANJHA.py')
+	os.system('python Fuck-RANJHA.py')
 	if xx in ["5","05"]:
 		time.sleep(1.5)
-	        os.system('python Fuck-MAHIN.py')
+	os.system('python Fuck-MAHIN.py')
 	
 
 fuck()
