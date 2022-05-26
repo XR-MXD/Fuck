@@ -34,7 +34,7 @@ def fuck():
 	os.system('python Fuck-SHANTO.py')
 	if xx in ["4","04"]:
 		time.sleep(1.5)
-	os.system('python FuckRANJHA.py')
+	os.system('python Fuck-RANJHA.py')
 	if xx in ["5","05"]:
 		time.sleep(1.5)
 	os.system('python Fuck-MAHIN.py')
